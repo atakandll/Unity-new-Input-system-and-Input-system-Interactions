@@ -7,7 +7,7 @@ There is an example showing how to create interactions using the Input System. T
 - Unity's new Input System is a framework that provides developers with more flexible and customizable input control, allowing them to manage and process data from various input sources such as keyboards, mice, gamepads, touchscreens, and more.
 - Using the new Input System provides developers with increased flexibility and control, enabling them to create a consistent experience across different platforms and input devices. This can enhance players' enjoyment by allowing them to engage with the game using their preferred input methods.
 
-# Interaction System
+## Interaction System
 - In Unity's new Input System, Interactions are a powerful feature that allow you to define complex input behaviors and interactions between various input sources and actions. Interactions help you manage input in a more abstract and customizable way, making it easier to create sophisticated control schemes and interactions for your games or applications.
 
   ## Interactions Visual Graph
