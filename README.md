@@ -2,6 +2,11 @@
 There is an example showing how to create interactions using the Input System. The project aims to develop a game or application with different types of input interactions. In particular, the focus is on input types such as "hold", "tap" and "press".
 
 - In this project, how tap press and hold interactions will work has been prepared. The transitions between 3 Game objects with yellow, green and red colors were tested
+- 
+  `Code sample:`
+
+  ![image](https://github.com/atakandll/Unity-new-Input-system-and-Input-system-Interactions/assets/130579265/72833dfd-130a-4c66-bc17-9d5e8591c26e)
+
 
 ## Unity New Input system
 - Unity's new Input System is a framework that provides developers with more flexible and customizable input control, allowing them to manage and process data from various input sources such as keyboards, mice, gamepads, touchscreens, and more.
